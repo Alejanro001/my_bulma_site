@@ -1,0 +1,11 @@
+.tab-item {
+    display: flex;
+    align-content: center;
+}
+.title{
+    display: flex;
+    justify-content: center;
+}
+.centriq-logo{
+    max-height: 50px;
+}

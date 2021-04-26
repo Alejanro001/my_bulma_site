@@ -1,0 +1,32 @@
+/* *{
+    border: red 1px solid;
+} */
+
+
+.navbar{
+    position: fixed;
+    top: 0;
+}
+.container > .title, .subtitle {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.hero{
+    background-image: url(../images/Computer-Tech-Wallpaper-09-2560x1440.jpeg);
+    background-size: cover;
+
+}
+.hero-body{
+    /* background-color: rgba(2, 30, 77, .6); */
+}
+.mobile, .desktop{
+    display:flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+.has-text-main1 {
+    color:#85DFF2;
+}
+
+/* experience */
